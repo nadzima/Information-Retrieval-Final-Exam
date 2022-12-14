@@ -3,6 +3,8 @@ Nama            : Uffi Nadzima
 
 NIM             : 21/484427/PPA/06185
 
+Kelompok        : 1 (Stanford)
+
 Proyek kelompok : Disease Detection 
 
                   (tautan GitHub https://github.com/nadzima/Disease-Detection)               
